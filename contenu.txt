@@ -1,0 +1,25 @@
+Titre principal
+Navigation principale
+    Accueil
+    Contact
+    À propos
+
+Articles
+Article 1
+Contenu de l’article 1
+Article 2
+Contenu de l’article 2
+Article 3
+Contenu de l’article 3
+
+Contenu annexe
+Navigation secondaire
+    Lien 1
+    Lien 2
+    Lien 3
+Autre contenu
+Bla bla bla
+Bla bla bla
+Bla bla bla
+
+Tous droits réservés
